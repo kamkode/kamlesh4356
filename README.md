@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Cricket Live Scoreboard and Commentary](https://github.com/kamlesh4356/Cricket-Live-Score-Performer-And-Live-Update)
+- 🔭 I’m currently working on [Cricket Live Scoreboard and Commentary project(Using of Api crickbuzz)](https://github.com/kamlesh4356/Cricket-Live-Score-Performer-And-Live-Update)
 
 - 🌱 I’m currently learning **Java, C, HTML, CSS, Data Structures and Algorithms**
 
